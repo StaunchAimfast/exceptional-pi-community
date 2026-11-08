@@ -180,7 +180,26 @@ footer{
   <p>Independent community project. Not an official Pi Network website.</p>
   © 2026 EXCEPTIONAL Community
 </footer>
+<script>
+document.getElementById("pi-signin").addEventListener("click", function () {
+  const state = crypto.randomUUID();
 
+  sessionStorage.setItem("pi_oauth_state", state);
+
+  const url = new URL("https://accounts.pinet.com/oauth/authorize");
+
+  url.searchParams.set("response_type", "token");
+  url.searchParams.set("client_id", "4P3OAdwarPhz5uOcl5SBkuvIBn7T3MvNBIhoPxFV-6Q");
+  url.searchParams.set(
+    "redirect_uri",
+    "https://exceptional-pi-community.vercel.app/signin/callback"
+  );
+  url.searchParams.set("scope", "username");
+  url.searchParams.set("state", state);
+
+  window.location.assign(url.toString());
+});
+</script>
 </body>
   </html>
   
