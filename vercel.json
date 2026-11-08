@@ -1,0 +1,9 @@
+
+{
+  "rewrites": [
+    {
+      "source": "/signin/callback",
+      "destination": "/signin/callback.html"
+    }
+  ]
+}
