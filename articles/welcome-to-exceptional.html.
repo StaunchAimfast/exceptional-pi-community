@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Welcome to EXCEPTIONAL, a community for Pi Network Pioneers to connect, learn and build together.">
+  <title>Welcome to EXCEPTIONAL | Pi Pioneer Community</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background: #100b20;
+      color: #f5f1ff;
+      line-height: 1.8;
+    }
+
+    header {
+      padding: 22px 7%;
+      background: #1c1233;
+      border-bottom: 1px solid #39265b;
+    }
+
+    .brand {
+      color: #f4c75e;
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 2px;
+    }
+
+    .tagline {
+      color: #c7b8df;
+      font-size: 12px;
+    }
+
+    main {
+      max-width: 850px;
+      margin: 45px auto;
+      padding: 0 22px;
+    }
+
+    .category {
+      display: inline-block;
+      color: #f4c75e;
+      border: 1px solid #8b6827;
+      padding: 5px 12px;
+      border-radius: 20px;
+      font-size: 12px;
+      margin-bottom: 18px;
+    }
+
+    h1 {
+      font-size: clamp(30px, 6vw, 45px);
+      line-height: 1.2;
+      color: #ffffff;
+      margin-bottom: 18px;
+    }
+
+    .subtitle {
+      color: #f4c75e;
+      font-size: 19px;
+      margin-bottom: 25px;
+    }
+
+    .meta {
+      color: #a99bbd;
+      font-size: 13px;
+      margin-bottom: 30px;
+    }
+
+    article p {
+      margin-bottom: 20px;
+      color: #ded6eb;
+    }
+
+    h2 {
+      color: #f4c75e;
+      font-size: 23px;
+      margin: 32px 0 12px;
+    }
+
+    ul {
+      padding-left: 24px;
+      margin-bottom: 24px;
+      color: #ded6eb;
+    }
+
+    li {
+      margin-bottom: 12px;
+    }
+
+    .highlight {
+      background: #211638;
+      border-left: 4px solid #f4c75e;
+      padding: 20px;
+      margin: 28px 0;
+      border-radius: 5px;
+    }
+
+    .cta {
+      text-align: center;
+      background: #211638;
+      border: 1px solid #594078;
+      border-radius: 12px;
+      padding: 28px 20px;
+      margin-top: 40px;
+    }
+
+    .cta h2 {
+      margin-top: 0;
+    }
+
+    .btn {
+      display: inline-block;
+      background: #f4c75e;
+      color: #1b1230;
+      padding: 12px 25px;
+      border-radius: 7px;
+      text-decoration: none;
+      font-weight: bold;
+      margin-top: 15px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 25px 15px;
+      color: #a99bbd;
+      font-size: 12px;
+      border-top: 1px solid #39265b;
+      margin-top: 50px;
+    }
+
+    footer a {
+      color: #f4c75e;
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div class="brand">EXCEPTIONAL</div>
+    <div class="tagline">THINK BEYOND. BUILD TOGETHER.</div>
+  </header>
+
+  <main>
+    <span class="category">COMMUNITY UPDATES</span>
+
+    <h1>WELCOME TO EXCEPTIONAL: A NEW HOME FOR PI PIONEERS</h1>
+
+    <div class="subtitle">
+      Think Beyond. Build Together.
+    </div>
+
+    <div class="meta">
+      EXCEPTIONAL Community Team | November 2026
+    </div>
+
+    <article>
+      <p>
+        Welcome to <strong>EXCEPTIONAL</strong> — a growing community
+        created for Pi Network Pioneers who believe in learning,
+        connecting, sharing ideas and building something meaningful
+        together.
+      </p>
+
+      <p>
+        The digital world is changing. Blockchain technology and
+        decentralised communities are creating new opportunities for
+        people everywhere. We believe that knowledge, collaboration
+        and responsible participation are important parts of this journey.
+      </p>
+
+      <h2>Our Mission</h2>
+
+      <p>
+        Our mission is simple: to create a welcoming space where
+        Pioneers can connect, learn, exchange experiences, discover
+        useful resources and explore the wider Pi ecosystem.
+      </p>
+
+      <h2>What You Can Expect</h2>
+
+      <ul>
+        <li>
+          <strong>Community Discussions:</strong>
+          Share ideas, ask questions and learn from other Pioneers.
+        </li>
+
+        <li>
+          <strong>Pi Academy:</strong>
+          Explore educational content about Pi Network, blockchain
+          technology and digital innovation.
+        </li>
+
+        <li>
+          <strong>Community Updates:</strong>
+          Discover relevant announcements, useful information
+          and ecosystem developments.
+        </li>
+
+        <li>
+          <strong>Collaboration:</strong>
+          Connect with people, discuss projects and exchange ideas.
+        </li>
+
+        <li>
+          <strong>Global Connections:</strong>
+          Meet Pioneers from different countries and backgrounds.
+        </li>
+      </ul>
+
+      <h2>Our Community Values</h2>
+
+      <p>
+        EXCEPTIONAL stands for knowledge-sharing, respect, transparency,
+        responsible participation and innovation. Every Pioneer should
+        have the opportunity to contribute positively.
+      </p>
+
+      <div class="highlight">
+        <p>
+          <strong>Remember:</strong> Protect your wallet passphrase and
+          private keys. Never share them with anyone. Always verify
+          information before trusting links, offers or projects.
+        </p>
+      </div>
+
+      <h2>Let's Build Together</h2>
+
+      <p>
+        This is the beginning of a journey. Whether you are new to Pi
+        Network or have been part of the community for years, your ideas
+        and contributions matter.
+      </p>
+
+      <p>
+        Welcome to EXCEPTIONAL. Let's learn, connect and build a stronger
+        community together.
+      </p>
+    </article>
+
+    <div class="cta">
+      <h2>Be Part of the Community</h2>
+      <p>
+        Join EXCEPTIONAL and connect with fellow Pi Pioneers.
+      </p>
+      <a class="btn" href="/">VISIT OUR COMMUNITY</a>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2026 EXCEPTIONAL – Pi Pioneer Community</p>
+    <p>
+      An independent community initiative. Not an official Pi Network
+      product or service.
+    </p>
+    <p><a href="/">Return to Homepage</a></p>
+  </footer>
+
+</body>
+  </html>
